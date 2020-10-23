@@ -1,2 +1,2 @@
-const test = 'test';
+const test = 'test123';
 module.exports = test;
